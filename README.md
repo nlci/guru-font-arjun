@@ -1,10 +1,12 @@
-README
-NLCI Gurmukhi fonts
-===================
+guru-font-arjun
+===============
 
-Thank you for your interest in NLCI's Gurmukhi fonts.
+Gurmukhi script fonts - Arjun
 
-NLCI's Gurmukhi fonts are released under the SIL Open Font License.
+For copyright and licensing - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
-See the [OFL.txt](OFL.txt) and [OFL-FAQ.txt](OFL-FAQ.txt) for details of the SIL Open Font License.
-See the [FONTLOG.txt](FONTLOG.txt) for information on this and previous releases.
+For practical information about using, modifying and redistributing this font see [OFL-FAQ.txt](OFL-FAQ.txt).
+
+For more details about this project, including changelog and acknowledgements see [FONTLOG.txt](FONTLOG.txt).
+
+For project documentation see [README.txt](README.txt).
