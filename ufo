@@ -1,6 +1,6 @@
 #!/bin/bash
 
-faces="Arjun"
+faces=(Arjun)
 styles=(Regular Bold Italic)
 desc_long="Pan Gurmukhi font designed to support all the languages using the Gurmukhi script."
 
