@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <font>
 <glyphs>
-<glyph UID="0A66" PSName="u0A66"><base UID="F030"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A67" PSName="u0A67"><base UID="F031"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A68" PSName="u0A68"><base UID="F032"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A69" PSName="u0A69"><base UID="F033"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A6A" PSName="u0A6A"><base UID="F034"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A6B" PSName="u0A6B"><base UID="F035"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A6C" PSName="u0A6C"><base UID="F036"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A6D" PSName="u0A6D"><base UID="F037"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A6E" PSName="u0A6E"><base UID="F038"><scale x="1.4" y="1.4"/></base></glyph>
-<glyph UID="0A6F" PSName="u0A6F"><base UID="F039"><scale x="1.4" y="1.4"/></base></glyph>
+<glyph UID="0A66" PSName="u0A66"><base UID="F030"></base></glyph>
+<glyph UID="0A67" PSName="u0A67"><base UID="F031"></base></glyph>
+<glyph UID="0A68" PSName="u0A68"><base UID="F032"></base></glyph>
+<glyph UID="0A69" PSName="u0A69"><base UID="F033"></base></glyph>
+<glyph UID="0A6A" PSName="u0A6A"><base UID="F034"></base></glyph>
+<glyph UID="0A6B" PSName="u0A6B"><base UID="F035"></base></glyph>
+<glyph UID="0A6C" PSName="u0A6C"><base UID="F036"></base></glyph>
+<glyph UID="0A6D" PSName="u0A6D"><base UID="F037"></base></glyph>
+<glyph UID="0A6E" PSName="u0A6E"><base UID="F038"></base></glyph>
+<glyph UID="0A6F" PSName="u0A6F"><base UID="F039"></base></glyph>
 </glyphs>
 </font>
