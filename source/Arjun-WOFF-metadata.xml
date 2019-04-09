@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="in.nlci.fonts.Arjun.0.101" />
+  <uniqueid id="in.nlci.fonts.Arjun.0.200" />
   <vendor name="NLCI" url="http://www.nlci.in/fonts/" />
   <credits>
     <credit
@@ -19,19 +19,19 @@
       
       Unreleased
       - Add many Latin and Devanagari characters
-      - Latin glyphs are from Sophia Nubian (https://scripts.sil.org/SophiaNubian/)
-      - Additional Latin glyphs are from Charis SIL (https://software.sil.org/charis/)
-      - Indian Rupee Sign is from Annapurna SIL (https://software.sil.org/annapurna/)
+      - Latin glyphs are from Source Sans Pro (https://fonts.adobe.com/fonts/source-sans/) scaled 71%
+      - Additional Latin glyphs are from Charis SIL (https://software.sil.org/charis/) scaled 71%
+      - Indian Rupee Sign is from Annapurna SIL (https://software.sil.org/annapurna/) scaled 71%
       23 Sep 2015 (Dev NLCI) NLCI Gurmukhi fonts version 0.100
     </text>
   </description>
   <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
-      This Font Software is Copyright (c) 2009-2018, NLCI (http://www.nlci.in/fonts/)
+      This Font Software is Copyright (c) 2009-2019, NLCI (http://www.nlci.in/fonts/)
       with Reserved Font Names "Arjun" and "NLCI".
-      Latin glyphs Copyright (c) 1994-2008, SIL International (http://scripts.sil.org/)
-      with Reserved Font Names "Sophia" and "SIL".
-      Additional Latin glyphs Copyright (c) 1997-2014, SIL International (http://www.sil.org/)
+      Latin glyphs Copyright (c) 2010-2018, Adobe (http://www.adobe.com/)
+      with Reserved Font Name "Source".
+      Additional Latin glyphs Copyright (c) 1997-2019, SIL International (http://www.sil.org/)
       with Reserved Font Names "Charis" and "SIL".
       Indian Rupee Sign Copyright (c) 2007-2017, SIL International (http://www.sil.org/)
       with Reserved Font Names "Annapurna" and "SIL".
@@ -131,11 +131,11 @@
   </license>
   <copyright>
     <text lang="en">
-      This Font Software is Copyright (c) 2009-2018, NLCI (http://www.nlci.in/fonts/)
+      This Font Software is Copyright (c) 2009-2019, NLCI (http://www.nlci.in/fonts/)
       with Reserved Font Names "Arjun" and "NLCI".
-      Latin glyphs Copyright (c) 1994-2008, SIL International (http://scripts.sil.org/)
-      with Reserved Font Names "Sophia" and "SIL".
-      Additional Latin glyphs Copyright (c) 1997-2014, SIL International (http://www.sil.org/)
+      Latin glyphs Copyright (c) 2010-2018, Adobe (http://www.adobe.com/)
+      with Reserved Font Name "Source".
+      Additional Latin glyphs Copyright (c) 1997-2019, SIL International (http://www.sil.org/)
       with Reserved Font Names "Charis" and "SIL".
       Indian Rupee Sign Copyright (c) 2007-2017, SIL International (http://www.sil.org/)
       with Reserved Font Names "Annapurna" and "SIL".
