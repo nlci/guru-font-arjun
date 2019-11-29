@@ -1,6 +1,27 @@
 <?xml version="1.0"?>
 <font>
 <glyphs>
+<glyph PSName="space.guru"><base UID="F020"></base></glyph>
+<glyph PSName="exclam.guru"><base UID="F021"></base></glyph>
+<glyph PSName="quoteleft.guru"><base UID="F022"></base></glyph>
+<glyph PSName="quotedblleft.guru"><base UID="F022"></base><base UID="F022"></base></glyph>
+<glyph UID="25CC" PSName="dottedcircle"><base UID="F023"></base></glyph>
+<glyph PSName="dollar.guru"><base UID="F024"></base></glyph>
+<glyph PSName="percent.guru"><base UID="F025"></base></glyph>
+<glyph UID="0A02" PSName="u0A02"><base UID="F072"></base></glyph>
+<glyph UID="0A03" PSName="u0A03"><base UID="F026"></base></glyph>
+<glyph PSName="quoteright.guru"><base UID="F027"></base></glyph>
+<glyph PSName="quotedblright.guru"><base UID="F027"></base><base UID="F027"></base></glyph>
+<glyph PSName="parenleft.gurt"><base UID="F028"></base></glyph>
+<glyph PSName="parenright.guru"><base UID="F029"></base></glyph>
+<glyph UID="0964" PSName="danda"><base UID="F02A"></base></glyph>
+<glyph UID="0965" PSName="dandadbl"><base UID="F02A"></base><base UID="F02A"></base></glyph>
+<glyph PSName="plus.guru"><base UID="F02B"></base></glyph>
+<glyph PSName="comma.guru"><base UID="F02C"></base></glyph>
+<glyph PSName="hyphen.guru"><base UID="F02D"></base></glyph>
+<glyph PSName="period.guru"><base UID="F02E"></base></glyph>
+<glyph UID="2215" PSName="divisionslash"><base UID="F02F"></base></glyph>
+<glyph PSName="slash.guru"><base UID="F02F"></base></glyph>
 <glyph UID="0A66" PSName="u0A66"><base UID="F030"></base></glyph>
 <glyph UID="0A67" PSName="u0A67"><base UID="F031"></base></glyph>
 <glyph UID="0A68" PSName="u0A68"><base UID="F032"></base></glyph>
@@ -11,5 +32,190 @@
 <glyph UID="0A6D" PSName="u0A6D"><base UID="F037"></base></glyph>
 <glyph UID="0A6E" PSName="u0A6E"><base UID="F038"></base></glyph>
 <glyph UID="0A6F" PSName="u0A6F"><base UID="F039"></base></glyph>
+<glyph PSName="colon.guru"><base UID="F03A"></base></glyph>
+<glyph PSName="semicolon.guru"><base UID="F03B"></base></glyph>
+<glyph PSName="less.guru"><base UID="F03C"></base></glyph>
+<glyph PSName="equal.guru"><base UID="F03D"></base></glyph>
+<glyph PSName="greater.guru"><base UID="F03E"></base></glyph>
+<glyph PSName="question.guru"><base UID="F03F"></base></glyph>
+<glyph UID="0A05" PSName="u0A05"><base UID="F041"></base></glyph>
+<glyph UID="0A06" PSName="u0A06"><base UID="F041"></base><base UID="F073"></base></glyph>
+<glyph UID="0A07" PSName="u0A07"><base UID="F075"></base><base UID="F042"></base></glyph>
+<glyph UID="0A08" PSName="u0A08"><base UID="F042"></base><base UID="F076"></base></glyph>
+<glyph UID="0A09" PSName="u0A09"><base UID="F043"></base><base UID="F078"></base></glyph>
+<glyph UID="0A0A" PSName="u0A0A"><base UID="F043"></base><base UID="F079"></base></glyph>
+<glyph PSName="u0A0A.bare"><base UID="F043"></base></glyph>
+<glyph UID="0A0F" PSName="u0A0F"><base UID="F042"></base><base UID="F07E"></base></glyph>
+<glyph PSName="u0A0F.bare"><base UID="F042"></base></glyph>
+<glyph UID="0A10" PSName="u0A10"><base UID="F041"></base><base UID="F0A4"></base></glyph>
+<glyph UID="0A13" PSName="u0A13"><base UID="F041"></base><base UID="F0AC"></base></glyph>
+<glyph UID="0A14" PSName="u0A14"><base UID="F041"></base><base UID="F0AC"></base></glyph>
+<glyph UID="0A15" PSName="u0A15"><base UID="F045"></base></glyph>
+<glyph PSName="u0A15_u0A4D_u0A30"><base UID="F046"></base></glyph>
+<glyph UID="0A16" PSName="u0A16"><base UID="F047"></base></glyph>
+<glyph PSName="u0A16_u0A3C"><base UID="F048"></base></glyph>
+<glyph UID="0A17" PSName="u0A17"><base UID="F049"></base></glyph>
+<glyph PSName="u0A17_u0A3C"><base UID="F04A"></base></glyph>
+<glyph UID="0A18" PSName="u0A18"><base UID="F04B"></base></glyph>
+<glyph UID="0A19" PSName="u0A19"><base UID="F04C"></base></glyph>
+<glyph UID="0A1A" PSName="u0A1A"><base UID="F04D"></base></glyph>
+<glyph UID="0A1B" PSName="u0A1B"><base UID="F04E"></base></glyph>
+<glyph UID="0A1C" PSName="u0A1C"><base UID="F04F"></base></glyph>
+<glyph PSName="u0A1C_u0A3C"><base UID="F050"></base></glyph>
+<glyph UID="0A1D" PSName="u0A1D"><base UID="F051"></base></glyph>
+<glyph UID="0A1E" PSName="u0A1E"><base UID="F052"></base></glyph>
+<glyph UID="0A1F" PSName="u0A1F"><base UID="F053"></base></glyph>
+<glyph UID="0A20" PSName="u0A20"><base UID="F054"></base></glyph>
+<glyph UID="0A21" PSName="u0A21"><base UID="F055"></base></glyph>
+<glyph PSName="u0A21_u0A4D_u0A30"><base UID="F056"></base></glyph>
+<glyph UID="0A22" PSName="u0A22"><base UID="F057"></base></glyph>
+<glyph UID="0A23" PSName="u0A23"><base UID="F058"></base></glyph>
+<glyph UID="0A24" PSName="u0A24"><base UID="F059"></base></glyph>
+<glyph PSName="u0A24_u0A4D_u0A30"><base UID="F05A"></base></glyph>
+<glyph PSName="u0A24_u0A4D_u0A30.alt"><base UID="F05B"></base></glyph>
+<glyph UID="0A25" PSName="u0A25"><base UID="F05C"></base></glyph>
+<glyph UID="0A26" PSName="u0A26"><base UID="F05D"></base></glyph>
+<glyph PSName="u0A26_u0A4D_u0A30"><base UID="F05E"></base></glyph>
+<glyph UID="0A27" PSName="u0A27"><base UID="F05F"></base></glyph>
+<glyph UID="0A28" PSName="u0A28"><base UID="F060"></base></glyph>
+<glyph UID="0A2A" PSName="u0A2A"><base UID="F061"></base></glyph>
+<glyph UID="0A2B" PSName="u0A2B"><base UID="F062"></base></glyph>
+<glyph PSName="u0A2B_u0A3C"><base UID="F063"></base></glyph>
+<glyph UID="0A2C" PSName="u0A2C"><base UID="F064"></base></glyph>
+<glyph UID="0A2D" PSName="u0A2D"><base UID="F065"></base></glyph>
+<glyph PSName="u0A2D_u0A4D_u0A30"><base UID="F066"></base></glyph>
+<glyph UID="0A2E" PSName="u0A2E"><base UID="F067"></base></glyph>
+<glyph UID="0A2F" PSName="u0A2F"><base UID="F068"></base></glyph>
+
+<glyph UID="0A30" PSName="u0A30"><base UID="F06A"></base></glyph>
+<glyph UID="0A32" PSName="u0A32"><base UID="F06B"></base></glyph>
+<glyph UID="0A33" PSName="u0A33"><base UID="F06C"></base></glyph>
+<glyph UID="0A35" PSName="u0A35"><base UID="F06D"></base></glyph>
+<glyph UID="0A36" PSName="u0A36"><base UID="F06F"></base></glyph>
+<glyph UID="0A38" PSName="u0A38"><base UID="F06E"></base></glyph>
+<glyph UID="0A39" PSName="u0A39"><base UID="F070"></base></glyph>
+<glyph UID="0A3C" PSName="u0A3C"><base UID="F071"></base></glyph>
+<glyph UID="0A3E" PSName="u0A3E"><base UID="F073"></base></glyph>
+
+<glyph UID="0A3F" PSName="u0A3F"><base UID="F075"></base></glyph>
+<glyph UID="0A40" PSName="u0A40"><base UID="F076"></base></glyph>
+
+<glyph UID="0A41" PSName="u0A41"><base UID="F078"></base></glyph>
+
+<glyph UID="0A42" PSName="u0A42"><base UID="F079"></base></glyph>
+
+<glyph UID="0A47" PSName="u0A47"><base UID="F07E"></base></glyph>
+
+
+
+<glyph UID="0A48" PSName="u0A48"><base UID="F0A4"></base></glyph>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<glyph PSName="zero.guru"><base UID="F080"></base></glyph>
+<glyph PSName="one.guru"><base UID="F081"></base></glyph>
+<glyph PSName="two.guru"><base UID="F082"></base></glyph>
+<glyph PSName="three.guru"><base UID="F083"></base></glyph>
+<glyph PSName="four.guru"><base UID="F084"></base></glyph>
+<glyph PSName="five.guru"><base UID="F085"></base></glyph>
+<glyph PSName="six.guru"><base UID="F086"></base></glyph>
+<glyph PSName="seven.guru"><base UID="F087"></base></glyph>
+<glyph PSName="eight.guru"><base UID="F088"></base></glyph>
+<glyph PSName="nine.guru"><base UID="F089"></base></glyph>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<glyph UID="0A4C" PSName="u0A4C"><base UID="F0AC"></base></glyph>
+
 </glyphs>
 </font>

@@ -5,8 +5,10 @@ styles=(Regular Bold Italic)
 desc_long="Pan Gurmukhi font designed to support all the languages using the Gurmukhi script."
 
 export nlci=$HOME/script/tools
+export src=source
 source ${nlci}/prepare.bash
 
 source ${nlci}/metadata.bash
 
+rm -f ${src}/*-???*.sfd*
 echo "done producing UFO sources"
