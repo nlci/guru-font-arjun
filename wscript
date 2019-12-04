@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # this is a smith configuration file
 
 # arjun
@@ -27,7 +27,8 @@ VERSION='0.101'
 DESC_SHORT='Gurmukhi Unicode font with OT support'
 DESC_NAME='NLCI-' + script
 DEBPKG='fonts-nlci-' + script
-#getufoinfo('source/Arjun-Regular.ufo')
+getufoinfo('source/Arjun-Regular.ufo')
+BUILDLABEL = 'beta1'
 
 # set test parameters
 TESTSTRING=u'\u0a15'
@@ -73,6 +74,7 @@ if '-l' in opts:
 
 if '-l' in opts:
     faces = list()
+
 for f in faces:
     p = package(
         appname = APPNAME + '-' + f.lower(),
@@ -87,10 +89,10 @@ for f in faces:
                 name(tag + ' ' + f, lang='en-US', subfamily=(sn))
                 ),
             source = fontbase + f + snf + '.ufo',
-            # opentype = fea(f + snf + '.fea',
-            #     master = fontbase + 'master.fea',
-            #     make_params = ''
-            #     ),
+            opentype = fea(generated + f + snf + '.fea',
+                master = fontbase + 'master.feax',
+                make_params = ''
+                ),
             #graphite = gdl(generated + f + snf + '.gdl',
             #    master = fontbase + 'master.gdl',
             #    make_params = '-p 1 -s 2',
@@ -100,9 +102,9 @@ for f in faces:
             #ap = generated + f + snf + '.xml',
             version = VERSION,
             #woff = woff('woff/' + fontfilename + '.woff', params = '-v ' + VERSION + ' -m ../' + fontbase + f + '-WOFF-metadata.xml'),
-            #script = 'guru',
+            script = 'gur2', # 'guru'
             package = p,
-            fret = fret(params = '-r -oi')
+            fret = fret(params = '-oi')
         )
 
 def configure(ctx):
