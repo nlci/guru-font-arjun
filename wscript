@@ -97,7 +97,7 @@ for f in faces:
             #classes = fontbase + 'arjun_classes.xml',
             #ap = generated + '${DS:FILENAME_BASE}.xml',
             version = VERSION,
-            woff = woff('woff/${DS:FILENAME_BASE}',
+            woff = woff('woff/${DS:FILENAME_BASE}', type='woff2',
                 metadata = '../source/${DS:FAMILYNAME_NOSPC}-WOFF-metadata.xml'),
             script = 'gur2', # 'guru'
             package = p,
